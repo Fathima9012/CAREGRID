@@ -38,6 +38,7 @@ Requires Node.js 18+.
 npm install
 npm run dev
 ```
+local run link: http://localhost:3000
 
 Open the Vite URL shown in the terminal.
 
